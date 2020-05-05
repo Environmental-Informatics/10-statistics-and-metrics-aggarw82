@@ -2,16 +2,15 @@
 # Created on March 25, 2020
 #  by Keith Cherkauer
 #
-# This script servesa as the solution set for assignment-10 on descriptive
+# This script serves a as the solution set for assignment-10 on descriptive
 # statistics and environmental informatics.  See the assignment documention 
 # and repository at:
 # https://github.com/Environmental-Informatics/assignment-10.git for more
 # details about the assignment.
 
-""" Program to perform basic data
-    quality check on meteorological 
-    data and generating graphs
-    highlighting the changes
+""" Program to perform Data Analysis
+    based on various statistical 
+    matrices on River-flow data
     
     Author: Varun Aggarwal
     Username: aggarw82
